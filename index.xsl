@@ -68,7 +68,7 @@ NetStrait was developed using javascript technology too. Please enable javascrip
   
    <!--<div id="header" class="header" style="background: rgb(194, 219, 242);margin-left:18px;margin-top:18px;margin-bottom:18px;">-->
    <div id="header" class="header" style="background: rgb(233, 238, 248);margin-left:18px;margin-top:18px;margin-bottom:18px;">
-      <a href="http://numode.eu" title="Hello! Going to NuMode Home?">NuMode</a>&#8201;&#8201;&#8201;<a href="https://github.com/dtmf7133/NetStrait" title="Oh, going to GitHub?">GitHub</a>&#8201;&#8201;&#8201;<a href="mailto:info@numode.eu" style="color:#d2524c;">Mail</a> 
+      <a href="http://numode.eu" title="Hello! Going to NuMode Home?">NuMode</a>&#8201;&#8201;&#8201;<a href="https://github.com/dtmf7133/" title="Oh, going to GitHub?">GitHub</a>&#8201;&#8201;&#8201;<a href="mailto:info@numode.eu" style="color:#d2524c;">Mail</a> 
    </div>
    <div id="headerMob" class="header" style="margin-left:18px;margin-top:18px;margin-bottom:18px;display:none">
       <a href="http://numode.eu" title="Hello! Going to NuMode Home?">NuMode</a>&#8201;&#8201;&#8201;<a href="https://github.com/dtmf7133/NetStrait" title="Oh, going to GitHub?">GitHub</a>&#8201;&#8201;&#8201;<a href="mailto:info@numode.eu" style="color:#d2524c;">Mail</a>
