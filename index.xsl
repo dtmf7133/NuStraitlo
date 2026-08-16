@@ -197,6 +197,17 @@ NetStrait was developed using javascript technology too. Please enable javascrip
                 </xsl:choose>
                 </nobr>
 
+                <xsl:choose>
+                <xsl:when test="SEE4!=''">
+                   &#8201;
+                   <a>
+                      <xsl:attribute name="href"><xsl:value-of select="SEEURL4"/></xsl:attribute>
+                      <xsl:attribute name="style">font-weight:600; font-style:italic;</xsl:attribute>
+                      <xsl:value-of select="SEE4"/>
+                   </a>
+                 </xsl:when>
+                </xsl:choose>
+					
                 <br/><br/>
 
                 </pre>
