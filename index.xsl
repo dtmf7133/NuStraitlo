@@ -71,7 +71,7 @@ NetStrait was developed using javascript technology too. Please enable javascrip
       <a href="http://numode.eu" title="Hello! Going to NuMode Home?">NuMode</a>&#8201;&#8201;&#8201;<a href="https://github.com/dtmf7133/" title="Oh, going to GitHub?">GitHub</a>&#8201;&#8201;&#8201;<a href="mailto:info@numode.eu" style="color:#d2524c;">Mail</a> 
    </div>
    <div id="headerMob" class="header" style="margin-left:18px;margin-top:18px;margin-bottom:18px;display:none">
-      <a href="http://numode.eu" title="Hello! Going to NuMode Home?">NuMode</a>&#8201;&#8201;&#8201;<a href="https://github.com/dtmf7133/NetStrait" title="Oh, going to GitHub?">GitHub</a>&#8201;&#8201;&#8201;<a href="mailto:info@numode.eu" style="color:#d2524c;">Mail</a>
+      <a href="http://numode.eu" title="Hello! Going to NuMode Home?">NuMode</a>&#8201;&#8201;&#8201;<a href="https://github.com/dtmf7133/" title="Oh, going to GitHub?">GitHub</a>&#8201;&#8201;&#8201;<a href="mailto:info@numode.eu" style="color:#d2524c;">Mail</a>
    </div>
        
    <form id="frmUpload" style="width:100%;min-width:380px;max-width:100%;margin:auto;background:rgb(233, 238, 248);min-height:2500px;padding-left:5px;padding-right:25px;" onsubmit="event.preventDefault();$('#butSearch-addon').click();">
