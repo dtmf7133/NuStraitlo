@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- processing output
+
+GPL 3 License
+
+Copyright 2021, 2028 NuMode
+
+This file is part of NetStrait.
+
+NetStrait is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+NetStrait is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+GNU General Public License for more details.  
+ 
+You should have received a copy of the GNU General Public License
+along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
+-->
+
+<?xml-stylesheet type="text/xsl" href="/index.xsl"?>
+
+<CONTENT>
+  <ITEM>
+    <ID>1</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[RADXIDE]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/RADXIDE</PROJECTURL>
+    <DESC><![CDATA[One more IDE but thought for RAD - TclTk, MIT]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/RADXIDE/archive/refs/tags/v1.6.1.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/RADXIDE/archive/refs/tags/v1.6.1.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://radxide.com</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>radxide development ide standalone rad coding software tcltk</TAGS>
+    <INDEX>1</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>2</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[tiny-tools]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/tiny-tools</PROJECTURL>
+    <DESC><![CDATA[Tiny tools for OpenBSD - MIT]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/tiny-tools/archive/refs/tags/v2.0.0.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/tiny-tools/archive/refs/tags/v2.0.0.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[Numode BSD Blog]]></SEE1>
+    <SEEURL1>https://bsd.gaoxio.com/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>tiny-tools unix openbsd toolset tools shell</TAGS>
+    <INDEX>2</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>3</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Homogram]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Homogram</PROJECTURL>
+    <DESC><![CDATA[Every person its pictures, instagram like on premise solution - PHP: <=8.1, GPL 🔥]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Homogram/archive/refs/tags/v1.5.9.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Homogram/archive/refs/tags/v1.5.9.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://homogram.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>http://homogram.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>http://homogram.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>homogram image photo sharing instagramlike onpremise php</TAGS>
+    <INDEX>3</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>4</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Homomm]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Homomm</PROJECTURL>
+    <DESC><![CDATA[Every person its messages, whats app like on premise solution - PHP: <=8.1, GPL 🔥]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Homomm/archive/refs/tags/v2.2.7.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Homomm/archive/refs/tags/v2.2.7.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://homomm.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>http://homomm.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>http://homomm.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>homomm web multimedia solution messaging onpremise whatsapp-like php</TAGS>
+    <INDEX>4</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>5</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[JohnDoe-Page]]></PROJECT>
+    <PROJECTURL>http://johndoe-page.numode-foss.eu/</PROJECTURL>
+    <DESC><![CDATA[Every person its online presence (software on premise) - GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/JohnDoe-Page/archive/refs/tags/v1.1.3.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/JohnDoe-Page/archive/refs/tags/v1.1.3.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://johndoe-page.numode-foss.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>johndoe-page website web static presence web-presence xml xslt</TAGS>
+    <INDEX>5</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>6</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[AvatarFree]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/AvatarFree</PROJECTURL>
+    <DESC><![CDATA[Let everyone own its social presence (on premise) - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/AvatarFree/archive/refs/tags/v1.5.9.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/AvatarFree/archive/refs/tags/v1.5.9.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://avatarfree.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>http://avatarfree.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>http://avatarfree.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>avatarfree blog social free presence onpremise php</TAGS>
+    <INDEX>6</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>7</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Puzzleu]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Puzzleu</PROJECTURL>
+    <DESC><![CDATA[Everyone its own gallery - PHP: <=8.1, GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Puzzleu/archive/refs/tags/v1.2.6.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Puzzleu/archive/refs/tags/v1.2.6.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://puzzleu.numode-foss.eu/</SEEURL1>
+    <SEE2><![CDATA[Italian homepage]]></SEE2>
+    <SEEURL2>https://puzzleu.numode-foss.eu/it/</SEEURL2>
+    <SEE3><![CDATA[Chinese homepage]]></SEE3>
+    <SEEURL3>https://puzzleu.numode-foss.eu/cn/</SEEURL3>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>pazzleu photo gallery free onpremise php</TAGS>
+    <INDEX>7</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>8</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[Foodlet]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/Foodlet</PROJECTURL>
+    <DESC><![CDATA[Everyone its menu. PHP <=8.1, GPL3]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/Foodlet/archive/refs/tags/v1.2.6.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/Foodlet/archive/refs/tags/v1.2.6.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>http://foodlet.org/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>foodlet web menu for-everyone freemium onpremise php</TAGS>
+    <INDEX>8</INDEX>
+  </ITEM>
+</CONTENT>
