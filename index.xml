@@ -224,4 +224,29 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TAGS>foodlet web menu for-everyone freemium onpremise php</TAGS>
     <INDEX>8</INDEX>
   </ITEM>
+  <ITEM>
+    <ID>9</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[NuStraitlo]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/NuStraitlo</PROJECTURL>
+    <DESC><![CDATA[A github web frontend - GPL.]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/NuStraitlo/archive/refs/tags/v1.1.0.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/NuStraitlo/archive/refs/tags/v1.1.0.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[NuMode Straitlo homepage]]></SEE1>
+    <SEEURL1>https://nustraitlo.numode.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>nustraitlo github web frontend onpremise xml xslt</TAGS>
+    <INDEX>9</INDEX>
+  </ITEM>
 </CONTENT>
