@@ -160,7 +160,7 @@ NetStrait was developed using javascript technology too. Please enable javascrip
                 </span>
                 <hr class="hr-tips" style="border:2px solid #d2454c;"/>    
                 <lt-content><pre style="width:100%;white-space:break-spaces;font-family:Pangolin;"><xsl:value-of select="DESC"/>
-                <br/>Tags:&#8201;<span style="color:maroon;"><xsl:value-of select="TAGS"/></span>
+                <br/><span style="color:green;">Tags</span>:&#8201;<span style="color:maroon;"><xsl:value-of select="TAGS"/></span>
                 &#8201;&#8201;&#8201;&#8201;&#8201;
                 <nobr> 
                 <xsl:choose>
