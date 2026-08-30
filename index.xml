@@ -49,8 +49,33 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TAGS>radxide development ide standalone rad coding software tcltk</TAGS>
     <INDEX>1</INDEX>
   </ITEM>
-  <ITEM>
+<ITEM>
     <ID>2</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[RADXIDE]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/IntranetLo</PROJECTURL>
+    <DESC><![CDATA[Intranet simplified to an XSLT pair of files - GPL]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/IntranetLo/archive/refs/tags/v1.0.5.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/IntranetLo/archive/refs/tags/v1.0.5.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[English homepage]]></SEE1>
+    <SEEURL1>https://intranetlo.numode-lab.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>intranetlo intranet install xml xslt</TAGS>
+    <INDEX>2</INDEX>
+  </ITEM>
+  <ITEM>
+    <ID>3</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[tiny-tools]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/tiny-tools</PROJECTURL>
@@ -72,10 +97,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>tiny-tools unix openbsd toolset tools shell</TAGS>
-    <INDEX>2</INDEX>
+    <INDEX>3</INDEX>
   </ITEM>
   <ITEM>
-    <ID>3</ID>
+    <ID>4</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Homogram]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Homogram</PROJECTURL>
@@ -97,10 +122,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>homogram image photo sharing instagramlike onpremise php</TAGS>
-    <INDEX>3</INDEX>
+    <INDEX>4</INDEX>
   </ITEM>
   <ITEM>
-    <ID>4</ID>
+    <ID>5</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Homomm]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Homomm</PROJECTURL>
@@ -122,10 +147,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>homomm web multimedia solution messaging onpremise whatsapp-like php</TAGS>
-    <INDEX>4</INDEX>
+    <INDEX>5</INDEX>
   </ITEM>
   <ITEM>
-    <ID>5</ID>
+    <ID>6</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[JohnDoe-Page]]></PROJECT>
     <PROJECTURL>http://johndoe-page.numode-foss.eu/</PROJECTURL>
@@ -147,10 +172,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>johndoe-page website web static presence web-presence xml xslt</TAGS>
-    <INDEX>5</INDEX>
+    <INDEX>6</INDEX>
   </ITEM>
   <ITEM>
-    <ID>6</ID>
+    <ID>7</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[AvatarFree]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/AvatarFree</PROJECTURL>
@@ -172,10 +197,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>avatarfree blog social free presence onpremise php</TAGS>
-    <INDEX>6</INDEX>
+    <INDEX>7</INDEX>
   </ITEM>
   <ITEM>
-    <ID>7</ID>
+    <ID>8</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Puzzleu]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Puzzleu</PROJECTURL>
@@ -197,10 +222,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>pazzleu photo gallery free onpremise php</TAGS>
-    <INDEX>7</INDEX>
+    <INDEX>8</INDEX>
   </ITEM>
   <ITEM>
-    <ID>8</ID>
+    <ID>9</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[Foodlet]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/Foodlet</PROJECTURL>
@@ -222,10 +247,10 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>foodlet web menu for-everyone freemium onpremise php</TAGS>
-    <INDEX>8</INDEX>
+    <INDEX>9</INDEX>
   </ITEM>
   <ITEM>
-    <ID>9</ID>
+    <ID>10</ID>
     <DATE>2026-05-30</DATE>
     <PROJECT><![CDATA[NuStraitlo]]></PROJECT>
     <PROJECTURL>https://github.com/dtmf7133/NuStraitlo</PROJECTURL>
@@ -247,6 +272,6 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <TYPE>project</TYPE>
     <CAT>info</CAT>
     <TAGS>nustraitlo github web frontend onpremise xml xslt</TAGS>
-    <INDEX>9</INDEX>
+    <INDEX>10</INDEX>
   </ITEM>
 </CONTENT>
