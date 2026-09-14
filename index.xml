@@ -273,5 +273,31 @@ along with NetStrait. If not, see <https://www.gnu.org/licenses/>.
     <CAT>info</CAT>
     <TAGS>nustraitlo github web frontend onpremise xml xslt</TAGS>
     <INDEX>10</INDEX>
+  </ITEM>  
+  <ITEM>
+    <ID>11</ID>
+    <DATE>2026-05-30</DATE>
+    <PROJECT><![CDATA[HtmlMap]]></PROJECT>
+    <PROJECTURL>https://github.com/dtmf7133/HtmlMap</PROJECTURL>
+    <DESC><![CDATA[Html map made easy (by Javascript) - MIT]]></DESC>
+    <DOWNLOAD1><![CDATA[zip]]></DOWNLOAD1>
+    <DOWNLOADURL1>https://github.com/dtmf7133/HtmlMap/archive/refs/tags/v1.0.6.zip</DOWNLOADURL1>
+    <DOWNLOAD2><![CDATA[tar.gz]]></DOWNLOAD2>
+    <DOWNLOADURL2>https://github.com/dtmf7133/HtmlMap/archive/refs/tags/v1.0.6.tar.gz</DOWNLOADURL2>
+    <SEE1><![CDATA[NuMode homepage]]></SEE1>
+    <SEEURL1>https://numode.eu/</SEEURL1>
+    <SEE2/>
+    <SEEURL2/>
+    <SEE3/>
+    <SEEURL3/>
+    <SEE4/>
+    <SEEURL4/>
+    <SEE5/>
+    <SEEURL5/>
+    <TYPE>project</TYPE>
+    <CAT>info</CAT>
+    <TAGS>htmlmap javascript html map</TAGS>
+    <INDEX>11</INDEX>
   </ITEM>
+   
 </CONTENT>
